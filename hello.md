@@ -1,1 +1,4 @@
-Tere, see on minu esimene GitHubi fail!
+See tekst on lisatud uues harus.
+
+
+
